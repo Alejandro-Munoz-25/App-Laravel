@@ -29,6 +29,13 @@ Profile
 
 <img src="images\img5.png" alt="Example 5">
 
+
+
+<img src="images\img6.png" alt="Example 6">
+
+
 Dark theme
 
 <img src="images\img7.png" alt="Example 6">
+
+<img src="images\img8.png" alt="Example 7">
