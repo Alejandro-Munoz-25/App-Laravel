@@ -7,6 +7,12 @@ Laragram utiliza Laravel Breeze , la cual agrega las funcionalidades de acceso,r
 Link de la Aplicación:
 [Laravel App](https://laravel-app-laragram.herokuapp.com/).
 
+Usuario de ejemplo
+
+Email: example@mail.com
+
+Password: 123456
+
 Algunas capturas de la aplicación:
 
 Home
